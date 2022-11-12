@@ -56,7 +56,7 @@ This section should list any major frameworks that you built your project using.
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://javascript.info/)
-* [React]
+* [React](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 
 
 <!-- GETTING STARTED -->
@@ -76,7 +76,7 @@ This is for how to list things you need to use the software and how to install t
 
 1. Clone the repo
    sh
-   git clone https://github.com/zalamitul/NetFlixClone
+   git clone https://github.com/gaurang2062/Netflix-Clone
    
 2. Install NPM packages
    sh
